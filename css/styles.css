@@ -12,6 +12,9 @@ hr {
 
 img {
   height: 250px;
+  border-radius: 50%;
+  border-width: 5px;
+  border-color: #160f30;
 }
 
 h1 {
